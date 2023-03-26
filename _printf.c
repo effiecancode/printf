@@ -3,7 +3,7 @@
 #include "main.h"
 
 /**
-* _printf - Function that produces output according to a format
+* _printf - produces output according to a format
 * @format: format specifier
 * @...:other variables
 * Return: int
